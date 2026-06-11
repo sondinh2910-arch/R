@@ -1,9 +1,4 @@
-# Bài thực hành Git & GitHub
-## Thông tin sinh viên
-- Họ và tên: Hồ Đình Sơn
-- Mã sinh viên: 25e1020052
-- Đơn vị: Khoa Kỹ thuật và Công nghệ - Đại học Huế
-* **Github Repo:** https://github.com/sondinh2910-arch/R.git
+AKA-Lab---Git-Safety-Foundation-Before-Vibe-Coding
 ## 📌 Khung Kiểm Tra Điều Kiện Hoàn Thành (Checklist)
 
 - **Điều kiện 1:** Hoàn thành các module học tập lý thuyết -> Trạng thái: ✅ Hoàn thành (GitHub Foundations Part 1 & 2 trên Microsoft Learn).
