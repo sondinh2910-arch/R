@@ -7,3 +7,4 @@ def lowercase_name(name):
 def capitalize_name(name):
     return name.title()
   
+
