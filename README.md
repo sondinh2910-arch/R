@@ -1,4 +1,19 @@
 ## AKA-Lab---Git-Safety-Foundation-Before-Vibe-Coding
+- **Họ và tên học viên:** Hồ Đình Sơn
+- **Trạng thái:** Đã hoàn thành 02 chứng chỉ Microsoft Learn.
+- 
+## 3. Danh sách lệnh Git đã sử dụng trong dự án
+Dưới đây là các lệnh Git cốt lõi em đã thực hành thành thạo dưới máy tính:
+- `git clone <url>`: Tải repository từ GitHub về máy cá nhân.
+- `git checkout -b <tên_nhánh>`: Tạo nhánh mới và chuyển sang nhánh đó.
+- `git checkout <tên_nhánh>`: Chuyển đổi qua lại giữa các nhánh.
+- `git add .`: Lưu lại các thay đổi vào khu vực chờ (Staging Area).
+- `git commit -m "tin_nhắn"`: Ghi lại lịch sử thay đổi kèm thông điệp có ý nghĩa.
+- `git pull origin <tên_nhánh>`: Cập nhật và kéo code mới nhất từ GitHub về máy.
+- `git push origin <tên_nhánh>`: Đẩy code và các nhánh từ máy cá nhân lên GitHub.
+- `git reset --hard origin/main`: Ép trạng thái code ở máy đồng bộ sạch sẽ với GitHub khi bị kẹt lỗi.
+- `git revert <commit_id>`: Hoàn tác an toàn một commit bị lỗi bằng cách tạo ra một commit đảo ngược.
+- `git log --oneline`: Xem lịch sử commit rút gọn để quản lý mã nguồn.
 ## 📌 Khung Kiểm Tra Điều Kiện Hoàn Thành (Checklist)
 
 - **Điều kiện 1:** Hoàn thành các module học tập lý thuyết -> Trạng thái: ✅ Hoàn thành (GitHub Foundations Part 1 & 2 trên Microsoft Learn).
