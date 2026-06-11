@@ -1,4 +1,4 @@
-AKA-Lab---Git-Safety-Foundation-Before-Vibe-Coding
+## AKA-Lab---Git-Safety-Foundation-Before-Vibe-Coding
 ## 📌 Khung Kiểm Tra Điều Kiện Hoàn Thành (Checklist)
 
 - **Điều kiện 1:** Hoàn thành các module học tập lý thuyết -> Trạng thái: ✅ Hoàn thành (GitHub Foundations Part 1 & 2 trên Microsoft Learn).
