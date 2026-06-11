@@ -38,3 +38,8 @@
 * **Kiểm tra kỹ lưỡng:** Sau khi AI sinh code, tiến hành đọc hiểu, rà soát lại logic, chạy thử nghiệm ổn định tại local rồi mới thực hiện commit từng bước rõ nghĩa.
 * **Hợp nhất qua Pull Request:** Chỉ đưa code của AI vào dự án chính thông qua luồng Pull Request và kiểm tra xung đột kỹ càng trước khi bấm Merge.
 * **Cứu hộ thần tốc:** Nếu AI sinh code lỗi hoặc làm hỏng cấu trúc project, sử dụng lịch sử thay
+* ## 🏁 Kết Luận
+
+Qua project thực hành thực tế này, em đã nắm vững và thao tác thành thạo các kỹ năng Git/GitHub cơ bản, chuẩn bị một tâm thế và nền tảng kỹ thuật vững chắc cho khóa học **Vibe Code**. 
+
+> 📝 **Bài học lớn nhất:** Quá trình thực hành đã giúp em cải biến tư duy từ những sai lầm khi mắc phải xung đột hay commit lỗi. Khi hiểu rõ mục tiêu cốt lõi của từng yêu cầu, em có thể suy luận ra nhiều hướng xử lý bài toán khác nhau và sử dụng Git như một công cụ kiểm soát tư duy logic để đưa ra giải pháp đúng ý, ngắn gọn và súc tích nhất
