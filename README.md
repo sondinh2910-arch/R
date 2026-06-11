@@ -9,6 +9,8 @@
 - **Điều kiện 6:** Có ít nhất 1 tình huống Conflict -> Trạng thái: ✅ Hoàn thành (Đã xảy ra và xử lý trực tiếp trên file README.md).
 - **Điều kiện 7:** Có ít nhất 1 tình huống Rollback/Revert -> Trạng thái: ✅ Hoàn thành (Đã thực hành rollback thông qua hành động xóa file lỗi temp.txt).
 - **Điều kiện 8:** Nộp ảnh chụp minh chứng Microsoft Learn -> Trạng thái: ✅ Hoàn thành (Học viên đính kèm ảnh bên dưới).
+- **Điều kiện 9:** Mentor xác nhận đạt yêu cầu -> Chờ duyệt -> Chờ đánh giá từ Mentor 
+
 ## 📂 Chi Tiết Các Tình Huống Đã Thực Hành
 
 ### 1. Thực Hành Xử Lý Conflict (Xung đột)
