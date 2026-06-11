@@ -1,6 +1,11 @@
-DB_HOST = "localhost"
-DB_PORT = 5432
-DB_STATUS = "Môi trường thử nghiệm (Development)"
+import socket
+import time
 
-print(f"Hệ thống đang chạy trên: {DB_STATUS}")
-print(f"Địa chỉ kết nối: {DB_HOST}:{DB_PORT}")
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+try:
+    s.bind(('localhost', 1672))
+    s.listen(1)
+    print("Đang chiếm cổng 5432... (Script vẫn đang chạy)")
+    time.sleep(60) # Giữ cổng trong 60 giây thay vì đợi Enter
+except OSError as e:
+    print(f"XUNG ĐỘT PHÁT HIỆN: {e}")
